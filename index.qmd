@@ -2,6 +2,14 @@
 title: "log"
 ---
 
-This is a Quarto website.
+This is my log. My thoughts, ideas, and experiences. My experiments with the observable truth.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am TokenBender. I am an engineer, a hacker, a citizen of the world.
+
+I love to learn. I love to make tools. I love to solve problems. I love to create mischievious things.
+
+I am a firm believer in the open web. 
+
+My core philosophy is interacting with the AI world via tools of experimentation and observation.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">e/xperiments philosophy:<br>* No muh-favourite-architecture<br>* Stay GPU-poor, stay foolish (literally)<br>* Forever behind SoTA, always learning<br>* Everyone sleeps on smol models<br>* Data curation/evaluation is the MOAT<br>* Synthetic dataset creation is art <a href="https://t.co/CNgbDtLJbT">pic.twitter.com/CNgbDtLJbT</a></p>&mdash; tokenbender (@4evaBehindSOTA) <a href="https://twitter.com/4evaBehindSOTA/status/1715722101989179617?ref_src=twsrc%5Etfw">October 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
