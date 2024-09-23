@@ -3,20 +3,21 @@ title: "log"
 format:
   html:
     include-in-header:
-      - <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-        integrity="sha512-pVJQz3jPKdXedb+3k3zBL2P6+1dAFR8b6PWuK9Y1cBz1Zk+7jR+Yy9f+QfFj/Y+ZAvE3XqVfK+1jQmFq6u/7sw=="
-        crossorigin="anonymous"
-        referrerpolicy="no-referrer"
-      />
+      - |
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+          integrity="sha512-pVJQz3jPKdXedb+3k3zBL2P6+1dAFR8b6PWuK9Y1cBz1Zk+7jR+Yy9f+QfFj/Y+ZAvE3XqVfK+1jQmFq6u/7sw=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer"
+        />
 ---
 
 This is my log. My thoughts, ideas, and experiences. My experiments with the observable truth.
 
 I am TokenBender. I am an engineer, a hacker, a citizen of the world.
 
-I love to learn. I love to make tools. I love to solve problems. I love to create mischievious things.
+I love to learn. I love to make tools. I love to solve problems. I love to create mischievous things.
 
 ## Consulting
 I offer consulting services in the areas of multimodal RAG, advanced search orchestration, building models, datasets, local model deployment.
