@@ -23,10 +23,10 @@ I love to learn. I love to make tools. I love to solve problems. I love to creat
 I offer consulting services in the areas of multimodal RAG, advanced search orchestration, building models, datasets, local model deployment.
 Reach out to me:
 
-- [{{< bi envelope size=2em color=red >}}](mailto:theartoftokenbending@gmail.com)
-- [{{< bi twitter size=2em color=blue >}}](https://x.com/4evaBehindSOTA)
-- [{{< bi linkedin size=2em color=#0077b5 >}}](https://www.linkedin.com/in/abhishek-harshvardhan-mishra/)
-- [{{< bi github size=2em color=black >}}](https://github.com/tokenbender)
+- [{{< bi envelope size=1em color=black >}}](mailto:theartoftokenbending@gmail.com)
+- [{{< bi twitter size=1em color=black >}}](https://x.com/4evaBehindSOTA)
+- [{{< bi linkedin size=1em color=black >}}](https://www.linkedin.com/in/abhishek-harshvardhan-mishra/)
+- [{{< bi github size=1em color=black >}}](https://github.com/tokenbender)
     
 
 ## Philosophy
