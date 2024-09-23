@@ -8,12 +8,19 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: moon
+        href: "#"
+        aria-label: Dark mode
+        id: quarto-dark-toggle
   repo-url: https://github.com/tokenbender/log
   repo-actions: [edit, issue]
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
 
