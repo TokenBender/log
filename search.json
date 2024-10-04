@@ -26,5 +26,26 @@
     "title": "log",
     "section": "Philosophy",
     "text": "Philosophy\nI am a firm believer in the open web.\nMy core philosophy is interacting with the AI world via tools of experimentation and observation.\n\n\ne/xperiments philosophy:* No muh-favourite-architecture* Stay GPU-poor, stay foolish (literally)* Forever behind SoTA, always learning* Everyone sleeps on smol models* Data curation/evaluation is the MOAT* Synthetic dataset creation is art pic.twitter.com/CNgbDtLJbT\n\n— tokenbender (@4evaBehindSOTA) October 21, 2023"
+  },
+  {
+    "objectID": "examples.html",
+    "href": "examples.html",
+    "title": "Code and Math Examples",
+    "section": "",
+    "text": "This page demonstrates how code rendering and math blocks work in Quarto."
+  },
+  {
+    "objectID": "examples.html#code-rendering-examples",
+    "href": "examples.html#code-rendering-examples",
+    "title": "Code and Math Examples",
+    "section": "Code Rendering Examples",
+    "text": "Code Rendering Examples\nIn this section, we’ll demonstrate how code rendering works in Quarto. Here are some examples in different programming languages:\n\nPython\nimport numpy as np\n\ndef add(a, b):\n    return a + b\n\nresult = add(3, 4)\nprint(f\"The result of add(3, 4) is: {result}\")\nOutput:\nThe result of add(3, 4) is: 7\n\n\nJavaScript\nfunction multiply(a, b) {\n  return a * b;\n}\n\nconsole.log(`The result of multiply(5, 6) is: ${multiply(5, 6)}`);\nOutput:\nThe result of multiply(5, 6) is: 30"
+  },
+  {
+    "objectID": "examples.html#math-blocks",
+    "href": "examples.html#math-blocks",
+    "title": "Code and Math Examples",
+    "section": "Math Blocks",
+    "text": "Math Blocks\nIn this section, we’ll demonstrate how to use math blocks in Quarto. Math blocks allow you to display beautiful mathematical equations using LaTeX syntax.\n\nInline Math\nYou can use inline math by enclosing your LaTeX code in single dollar signs. For example, the formula for the area of a circle is \\(A = \\pi r^2\\).\n\n\nDisplay Math\nFor more complex equations or when you want the math to be displayed on its own line, you can use display math blocks. These are created by enclosing the LaTeX code in double dollar signs.\nHere’s the quadratic formula:\n\\[\nx = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\n\\]\n\n\nMultiple Equations\nYou can also display multiple equations in a single block:\n\\[\n\\begin{aligned}\nE &= mc^2 \\\\\nF &= ma \\\\\nPV &= nRT\n\\end{aligned}\n\\]\n\n\nMatrix\nHere’s an example of a matrix:\n\\[\n\\begin{bmatrix}\na & b & c \\\\\nd & e & f \\\\\ng & h & i\n\\end{bmatrix}\n\\]\n\n\nCalculus\nLet’s show a calculus example with an integral:\n\\[\n\\int_{0}^{\\infty} e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\n\\]\nThese math blocks will render beautifully in your Quarto document, making it easy to include complex mathematical expressions in your content."
   }
 ]
