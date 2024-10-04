@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: examples.qmd
+        text: Examples
       - about.qmd
     right:
       - icon: moon

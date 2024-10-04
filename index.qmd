@@ -21,6 +21,7 @@ sidebar:
       contents:
         - index.qmd
         - examples.qmd
+        - about.qmd
 ---
 
 This is my logbook. My thoughts, ideas, and experiences.
