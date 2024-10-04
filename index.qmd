@@ -11,6 +11,16 @@ format:
           crossorigin="anonymous"
           referrerpolicy="no-referrer"
         />
+page-layout: full
+toc: true
+sidebar: 
+  style: "docked"
+  search: true
+  contents:
+    - section: "Main"
+      contents:
+        - index.qmd
+        - examples.qmd
 ---
 
 This is my logbook. My thoughts, ideas, and experiences.
