@@ -26,5 +26,12 @@
     "title": "log",
     "section": "Philosophy",
     "text": "Philosophy\nI am a firm believer in the open web.\nMy core philosophy is interacting with the AI world via tools of experimentation and observation.\n\n\ne/xperiments philosophy:* No muh-favourite-architecture* Stay GPU-poor, stay foolish (literally)* Forever behind SoTA, always learning* Everyone sleeps on smol models* Data curation/evaluation is the MOAT* Synthetic dataset creation is art pic.twitter.com/CNgbDtLJbT\n\n— tokenbender (@4evaBehindSOTA) October 21, 2023"
+  },
+  {
+    "objectID": "index.html#code-rendering-examples",
+    "href": "index.html#code-rendering-examples",
+    "title": "log",
+    "section": "Code Rendering Examples",
+    "text": "Code Rendering Examples\nIn this section, I’ll demonstrate how code rendering works in Quarto. Here are some examples in different programming languages:\n\nPython\nimport numpy as np\n\ndef add(a, b):\n    return a + b\n\nresult = add(3, 4)\nprint(f\"The result of add(3, 4) is: {result}\")\nOutput:\nThe result of add(3, 4) is: 7\n\n\nJavaScript\nfunction multiply(a, b) {\n  return a * b;\n}\n\nconsole.log(`The result of multiply(5, 6) is: ${multiply(5, 6)}`);\nOutput:\nThe result of multiply(5, 6) is: 30"
   }
 ]
