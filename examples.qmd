@@ -1,5 +1,6 @@
 ---
 title: "Code and Math Examples"
+draft: true
 ---
 
 This page demonstrates how code rendering and math blocks work in Quarto.
